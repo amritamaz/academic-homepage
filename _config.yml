@@ -1,0 +1,13 @@
+markdown: kramdown
+highlighter: pygments
+permalink: /:title.html
+timezone: America/New_York
+exclude: [README.md, Makefile]
+
+navigation:
+  - title: home
+    link: /
+  - title: cv
+    link: /web-cv.html
+  - title: blog
+    link: /blog.html

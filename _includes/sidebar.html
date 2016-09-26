@@ -1,0 +1,24 @@
+        <div class="col-xs-4 col-xs-pull-8">
+          <ul class="nav nav-list">
+
+                    {% for item in site.navigation %}
+                    <li>
+                    <a href="{{ site.baseurl }}{{ item.link }}">
+                        {{ item.title }}
+                    </a>
+                    </li>
+                    {% endfor %}
+
+
+<!--             {% for page in site.pages %}
+              {% if page.title and page.title != '404' %}
+              <li data-section="{{ page.title }}"><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+              {% endif %}
+            {% endfor %}
+ -->            <br>
+            
+            <li><a href="mailto:amrita@cs.washington.edu">amrita@cs.uw.edu</a></li>
+            <li><a href="http://www.twitter.com/amritamaz">@amritamaz</a></li>
+            <li><a>CSE 352</a></li>
+          </ul>
+        </div>

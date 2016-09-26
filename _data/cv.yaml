@@ -1,0 +1,109 @@
+name: Amrita Mazumdar
+email: amrita@cs.washington.edu
+dept: University of Washington Department of Computer Science & Engineering
+dept_url: https://www.cs.washington.edu
+
+education:
+    -
+        school: University of Washington
+        degree: Ph.D., Computer Science and Engineering
+        dates: in progress
+        note: |
+            Advisors: <a href="http://homes.cs.washington.edu/~luisceze/">Luis Ceze</a>
+            and <a href="http://homes.cs.washington.edu/~oskin/">Mark Oskin</a><br>
+    -
+        school: Columbia University
+        degree: Bachelor of Science, Computer Engineering
+        dates: 2010&ndash;2014
+        note: |
+            Minor: English Literature
+jobs:
+    -
+        title: Graduate Researcher
+        where: University of Washington
+        dates: 2014&ndash;present
+
+    -
+        title: DREU Research Fellow
+        where: Brown University
+        dates: 2013
+
+    -
+        title: ASIC Design Intern
+        where: IBM Microelectronics
+        dates: 2012
+
+    -
+        title: Undergraduate Researcher
+        where: Columbia University
+        dates: 2011&ndash;2012
+
+honors:
+    - 
+        title: Google Anita Borg Memorial Fellowship 
+        date: 2014
+    - 
+        title: CRA-W Distributed Research Experience for Undergraduates (DREU) Fellowship 
+        date: 2013
+    - 
+        title: University of Rochester Frederick Douglass and Susan B. Anthony Award 
+        date: 2010
+
+teaching:
+    - |
+        **Teaching Assistant**, University of Washington
+
+        * <a href="http://www.cs.washington.edu/education/courses/csep548/16wi/">CSE 548</a>, Winter 2016 (Graduate Computer Architecture), with Mark Oskin
+    - |
+        **Tutor**, University of Washington
+
+        + CSE 351 (The Hardware/Software Interface)
+        + CSE 341 (Programming Languages)
+    - |
+        **Teaching Assistant**, Columbia University
+
+        + <a href="">COMS 4840</a>, Spring 2014 (Embedded Systems Design), with Stephen Edwards
+        + <a href="">Columbia Science Honors Program</a>, 2013-2014 (Introduction to Java), with Paul Blaer
+        + <a href="">COMS 1007</a> , Spring 2012(Object-Oriented Programming), with Swapneel Sheth
+
+service:
+    - |
+        University of Washington, Computer Science and Engineering
+
+        * Prospective Student Committee Co-Chair, 2016; Member, 2015&ndash;2016
+        * TGIF Committee Co-Chair, 2016
+        * New Graduate Student Mentor, 2015--2016
+    - |
+        Columbia University, Computer Science & Computer Engineering
+
+        * Vice President, Women in Computer Science, 2013-2014
+        * Mentor, 2012-2014
+
+outreach:
+    - |
+        Co-Chair, UW CSE Women’s Day (2015, 2016)
+    - |
+        Mentor, ICRA (2015), [Go, Girl Go! Forum](http://icra2015.org/conference/forums/11-conference/53-go-girl-go)
+    - |
+        Mentor, Stars Challenge (2014), [Code Secrets](http://www.starschallenge.org/stars/Computing%20Camp%20For%20Girls/)        
+    - |
+        Instructor, Iridescent Learning (2012), [Technovation Challenge NYC](http://www.technovationchallenge.org/)
+    - |
+        Instructor, Iridescent Learning (2012), [Technovation Challenge NYC](http://www.technovationchallenge.org/)
+
+committees:
+
+    - |
+        [Grace Hopper SOL 2016](http://ghc.anitaborg.org/2016-speakers/clusters-and-tracks/#SOL): Program committee member
+
+students:
+    -
+        name: Beck Pang
+        kind: B.S.
+        when: 2015&ndash;2016
+        where: University of Washington
+    -
+        name: Yufang Sun
+        kind: B.S.
+        when: 2014
+        where: University of Washington
