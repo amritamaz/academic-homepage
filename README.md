@@ -1,6 +1,4 @@
-amritamaz's dreu blog
+my academic homepage
 =============
 
-blog documenting the trials and tribulations of amritamaz
-as she embarks on a 10-week research assistantship @ brown
-university, funded by the dreu program and hosted by dr. iris bahar @ lems.
+deploys to [https://homes.cs.washington.edu/~amrita](https://homes.cs.washington.edu/~amrita). runs on jekyll and stuff.
