@@ -1,8 +1,32 @@
+name: Amrita Mazumdar
+author: Amrita Mazumdar
+url: http://homes.cs.washington.edu/~amrita/
+baseurl: /~amrita
+twitter: '@amritamaz'
+email: 'amrita@cs.washington.edu'
+ghrepo: https://github.com/amritamaz/home
+
+
 markdown: kramdown
 highlighter: pygments
-permalink: /:title.html
-timezone: America/New_York
+# permalink: /:title.html
+timezone: America/Seattle
 exclude: [README.md, Makefile]
+
+
+defaults:
+    -
+        scope:
+            path: ""
+            type: posts
+        values:
+            layout: post
+    -
+        scope:
+            path: ""
+            type: drafts
+        values:
+            layout: post
 
 navigation:
   - title: home
@@ -11,3 +35,6 @@ navigation:
     link: /web-cv.html
   - title: blog
     link: /blog.html
+
+
+permalink: /blog/:title.html

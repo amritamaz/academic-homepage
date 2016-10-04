@@ -8,7 +8,7 @@ all: clean build
 build:
 	jekyll build $(BUILDARGS)
 
-deploy: BUILDARGS=--config _config.yml,_config_deploy.yml
+deploy: BUILDARGS=--config _config.yml
 deploy: clean build
 	chmod -R a+r .
 	chmod -R ug+w .

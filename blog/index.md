@@ -11,7 +11,7 @@ Notes on grad school, computer architecture research, etc.
   <li>
       <span class="date">{{ post.date | date_to_string}}
 </span><br>
-      <a href="{{ post.url }}">{{ post.title }}</a> 
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> 
     </li>
   {% endfor %}
 </ul>
