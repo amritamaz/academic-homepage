@@ -30,6 +30,6 @@ Before grad school, I studied [computer engineering] [cs@cu] and [English litera
 
 {% endfor %}
 </ul>
-<a href="{{site.baseurl}}/news">(see all news &rarr;)</a>
+<a href="{{site.baseurl}}/news.html">(see all news &rarr;)</a>
 
 </section>
