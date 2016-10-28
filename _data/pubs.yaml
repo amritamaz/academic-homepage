@@ -1,4 +1,10 @@
--
+pubs:
+  -
+    title: "A Tale of Two Cameras: Exploring In-Camera Computation-Communication Tradeoffs"
+    authors: Amrita Mazumdar, Thierry Moreau, Sung Kim, Meghan Cowan, Armin Alaghi, Luis Ceze, Mark Oskin, Visvesh Sathe
+    type: conference
+
+  -
     title: "Principles and Techniques of Schlieren Imaging Systems"
     authors: "Amrita Mazumdar"
     url: http://academiccommons.columbia.edu/catalog/ac:162659
