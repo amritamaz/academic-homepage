@@ -23,8 +23,8 @@ Before grad school, I studied [computer engineering] [cs@cu] and [English litera
 <ul class="tablelist">
 {% for member in site.data.news | limit: 3 %}
 <li>
-<b class="news_item">{{ member.headline }}</b>
-<span class="news_date">{{ member.date }}</span>
+<span class="news_item">{{ member.headline }}</span>
+<span class="news_date">({{ member.date }})</span>
 </li>
 
 

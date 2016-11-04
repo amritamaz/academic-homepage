@@ -29,7 +29,7 @@ permalink: /news
 {% endif %}
 
 <li>
-<b class="news_item">{{ member.headline }}</b>
+<span class="news_item">{{ member.headline }}</span>
 <span class="news_date">{{ member.date }}</span>
 </li>
 
