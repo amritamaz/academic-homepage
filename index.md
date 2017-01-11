@@ -21,7 +21,7 @@ Before grad school, I studied [computer engineering] [cs@cu] and [English litera
 <section id="news">
 <h2>News</h2>
 <ul class="tablelist">
-{% for member in site.data.news | limit: 3 %}
+{% for member in site.data.news limit: 3 %}
 <li>
 <span class="news_item">{{ member.headline }}</span>
 <span class="news_date">({{ member.date }})</span>
