@@ -1,7 +1,8 @@
 pubs:
   -
-    title: "A Tale of Two Cameras: Exploring In-Camera Computation-Communication Tradeoffs"
+    title: "Exploring In-Camera Computation-Communication Tradeoffs"
     authors: Amrita Mazumdar, Thierry Moreau, Sung Kim, Meghan Cowan, Armin Alaghi, Luis Ceze, Mark Oskin, Visvesh Sathe
+    url: 
     type: conference
 
   -

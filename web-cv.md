@@ -18,7 +18,7 @@ permalink: /web-cv
 </section>
 
 <section>
-    <h2>Research Positions</h2>
+    <h2>Work Experience</h2>
     {% for job in cv.jobs %}
     <p>
         <strong>{{ job.title }}</strong>, {{ job.where }}<br>
@@ -63,6 +63,10 @@ permalink: /web-cv
     {% endfor %}
     <h3>Review Committees</h3>
     {% for text in cv.committees %}
+        {{ text | markdownify }}
+    {% endfor %}
+    <h3>External Reviews</h3>
+    {% for text in cv.external %}
         {{ text | markdownify }}
     {% endfor %}
     <h3> Outreach</h3>

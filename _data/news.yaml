@@ -1,4 +1,10 @@
 - headline: |
+             The third annual Women's Research Day was a great success! The UW Daily wrote 
+             <a href="http://www.dailyuw.com/news/article_d1908976-1810-11e7-acf0-5fcdd5247822.html">a nice article</a>
+             about the event. 
+  date: April 2017
+  year: 2017
+- headline: |
              I gave a talk and presented a poster on our work on in-camera processing pipelines 
              at the <a href="https://www.cs.washington.edu/industrial_affiliates/meetings/2016/meeting">
              UW CSE Industrial Affiliates</a> meeting.
@@ -9,6 +15,11 @@
              I presented our work on in-camera processing pipelines at the UW PLSE Retreat.
   date: September 2016
   year: 2016
+
+- headline: |
+             I attended ISCA 2016 in Seoul, and was a scribe for the [Arch2030](http://arch2030.cs.washington.edu/) workshop.
+  date: June 2016
+  year: 2015
 
 - headline: |
              I was on the program committee for the <a href="http://ghc.anitaborg.org/">
@@ -32,6 +43,11 @@
              <a href="https://www.cs.washington.edu/industrial_affiliates/meetings/2015/meeting">
              UW CSE Industrial Affiliates</a>  meeting.
   date: October 2015
+  year: 2015
+
+- headline: |
+             I attended ISCA 2015 in Portland.
+  date: June 2015
   year: 2015
 
 

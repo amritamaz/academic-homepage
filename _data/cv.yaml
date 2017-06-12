@@ -7,10 +7,14 @@ education:
     -
         school: University of Washington
         degree: Ph.D., Computer Science and Engineering
-        dates: in progress
+        dates: In progress
         note: |
             Advisors: <a href="http://homes.cs.washington.edu/~luisceze/">Luis Ceze</a>
             and <a href="http://homes.cs.washington.edu/~oskin/">Mark Oskin</a><br>
+    -
+        school: University of Washington
+        degree: Masters of Science, Computer Science and Engineering
+        dates: 2017
     -
         school: Columbia University
         degree: Bachelor of Science, Computer Engineering
@@ -19,24 +23,14 @@ education:
             Minor: English Literature
 jobs:
     -
-        title: Graduate Researcher
-        where: University of Washington
-        dates: 2014&ndash;present
-
-    -
-        title: DREU Research Fellow
-        where: Brown University
-        dates: 2013
+        title: Research Intern
+        where: Oculus Research
+        dates: 2017
 
     -
         title: ASIC Design Intern
         where: IBM Microelectronics
         dates: 2012
-
-    -
-        title: Undergraduate Researcher
-        where: Columbia University
-        dates: 2011&ndash;2012
 
 honors:
     - 
@@ -82,13 +76,13 @@ service:
 
 outreach:
     - |
-        Co-Chair, UW CSE Women’s Day (2015, 2016)
+        Chair, UW CSE Women’s Day (2017)
+    - |
+        Committee, UW CSE Women’s Day (2015, 2016)
     - |
         Mentor, ICRA (2015), [Go, Girl Go! Forum](http://icra2015.org/conference/forums/11-conference/53-go-girl-go)
     - |
         Mentor, Stars Challenge (2014), [Code Secrets](http://www.starschallenge.org/stars/Computing%20Camp%20For%20Girls/)        
-    - |
-        Instructor, Iridescent Learning (2012), [Technovation Challenge NYC](http://www.technovationchallenge.org/)
     - |
         Instructor, Iridescent Learning (2012), [Technovation Challenge NYC](http://www.technovationchallenge.org/)
 
@@ -96,6 +90,11 @@ committees:
 
     - |
         [Grace Hopper SOL 2016](http://ghc.anitaborg.org/2016-speakers/clusters-and-tracks/#SOL): Program committee member
+
+external:
+
+    - |
+        IEEE Micro 2017
 
 students:
     -
