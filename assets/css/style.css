@@ -22,11 +22,11 @@ body {
 }
 
 a {
-  color: crimson;
+  color: #E07900;
 }
 
 a:hover {
-  color: crimson;
+  color: #E07900;
 }
 
 #logos {
@@ -52,7 +52,7 @@ padding: 0;
 
 .nav>li>a:hover {
 background-color: #fff !important;
-  color: crimson  !important;
+  color: #E07900  !important;
 
 }
 
