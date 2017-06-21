@@ -21,6 +21,10 @@ body {
   color: #000;
 }
 
+.h2, h2{
+  font-size: 24px;
+}
+
 a {
   color: #E07900;
 }
@@ -97,8 +101,19 @@ footer{
   text-align: center;
 }
 
+#news-item{
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
 .news_date{
-  color: #666;
+  color: #999;
+  display: inline-block;
+}
+
+.news_text{
+    display: inline-block;
+
 }
 
 .footer {
@@ -130,6 +145,10 @@ footer{
 #cv h3{
     font-size: 15px;
 font-weight: 600;
+}
+
+#cv .venue{
+  font-style: italic;
 }
 
 

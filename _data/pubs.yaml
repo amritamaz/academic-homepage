@@ -1,13 +1,26 @@
-pubs:
-  -
-    title: "Exploring In-Camera Computation-Communication Tradeoffs"
-    authors: Amrita Mazumdar, Thierry Moreau, Sung Kim, Meghan Cowan, Armin Alaghi, Luis Ceze, Mark Oskin, Visvesh Sathe
-    url: 
+-
+    title: "A Hardware-Friendly Bilateral Solver for Real-Time Virtual Reality Video"
+    authors: "Amrita Mazumdar, Armin Alaghi, Jonathan T. Barron, David Gallup, Luis Ceze, Mark Oskin, Steven M. Seitz"
+    venue: High Performance Graphics
+    venue_url: www.highperformancegraphics.org/2017/
+    url: papers/hpg17.pdf
+    year: 2017
     type: conference
+    pre: true
 
-  -
+-
+    title: "Exploring Computation-Communication Tradeoffs in Camera Systems"
+    authors: "Amrita Mazumdar, Thierry Moreau, Sung Kim, Meghan Cowan, Armin Alaghi, Luis Ceze, Mark Oskin, Visvesh Sathe"
+    venue: arXiv Preprint
+    year: 2017
+    url: "https://arxiv.org/abs/1706.03864"
+    type: conference
+    arxiv: true
+-
     title: "Principles and Techniques of Schlieren Imaging Systems"
     authors: "Amrita Mazumdar"
     url: http://academiccommons.columbia.edu/catalog/ac:162659
+    venue: Columbia University Computer Science Technical Reports
     type: techreport
+    year: 2013
 
