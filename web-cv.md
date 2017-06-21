@@ -9,9 +9,9 @@ permalink: /web-cv
     <h2>Education</h2>
     {% for school in cv.education %}
     <p>
-        <strong>{{ school.school }}</strong><br>
-        {{ school.degree }}<br>
-        {{ school.dates }}<br>
+        <strong>{{ school.school }}</strong><br />
+        {{ school.degree }}<br />
+        {{ school.dates }}<br />
         {{ school.note }}
     </p>
     {% endfor %}
@@ -26,7 +26,7 @@ permalink: /web-cv
                 </span>
                 <br />
                 <span class="authors">{{ paper.authors }}.</span>
-                {% if paper.venue %}<br>
+                {% if paper.venue %}<br />
                 <span class="venue">
                     {% if paper.pre %}To appear in{% else %}{% if paper.arxiv %}{% else %}In{% endif %}{% endif %}
                     {{ paper.venue }}{% if paper.with %} (co-located with {{ paper.with }}){% endif %}{% if paper.year %}, {{ paper.year }}{% endif %}.
@@ -43,7 +43,7 @@ permalink: /web-cv
     <h2>Work Experience</h2>
     {% for job in cv.jobs %}
     <p>
-        <strong>{{ job.title }}</strong>, {{ job.where }}<br>
+        <strong>{{ job.title }}</strong>, {{ job.where }}<br />
         {{ job.dates }}
     </p>
     {% endfor %}
@@ -61,11 +61,11 @@ permalink: /web-cv
     <h2>Students</h2>
     {% for student in cv.students %}
     <p>
-        <strong>{{ student.name }}</strong><br>
+        <strong>{{ student.name }}</strong><br />
         {{ student.kind }},
         {{ student.where }},
         {{ student.when }}
-        {% if student.extra %}<br>{{ student.extra }}{% endif %}
+        {% if student.extra %}<br />{{ student.extra }}{% endif %}
     </p>
     {% endfor %}
 </section>
