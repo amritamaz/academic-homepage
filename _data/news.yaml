@@ -1,15 +1,22 @@
 - headline: |
-             Our <a href="papers/hpg17.pdf">paper on real-time VR video acceleration</a> will appear at <a href="www.highperformancegraphics.org/2017/">High-Performance Graphics 2017</a>! 
+             I had a lot of fun at the <a href="https://www.acm.org/turing-award-50">ACM Celebration of 50 Years of
+             Turing Awards</a>! Thanks to <a href="https://www.sigarch.org/">ACM SIGARCH</a> for sending me.
+  date: June 2017
+  year: 2017
+
+- headline: |
+             Our <a href="papers/hpg17.pdf">paper on real-time VR video acceleration</a> will appear at
+             <a href="http://www.highperformancegraphics.org/2017/">High-Performance Graphics 2017</a>!
   date: June 2017
   year: 2017
 - headline: |
-             The third annual Women's Research Day was a great success! The UW Daily wrote 
+             The third annual Women's Research Day was a great success! The UW Daily wrote
              <a href="http://www.dailyuw.com/news/article_d1908976-1810-11e7-acf0-5fcdd5247822.html">a nice article</a>
-             about the event. 
+             about the event.
   date: April 2017
   year: 2017
 - headline: |
-             I gave a talk and presented a poster on our work on in-camera processing pipelines 
+             I gave a talk and presented a poster on our work on in-camera processing pipelines
              at the <a href="https://www.cs.washington.edu/industrial_affiliates/meetings/2016/meeting">
              UW CSE Industrial Affiliates</a> meeting.
   date: October 2016
@@ -21,7 +28,7 @@
   year: 2016
 
 - headline: |
-             I attended ISCA 2016 in Seoul, and was a scribe for the [Arch2030](http://arch2030.cs.washington.edu/) workshop.
+             I attended ISCA 2016 in Seoul, and was a scribe for the <a href="http://arch2030.cs.washington.edu/">Arch2030</a> workshop.
   date: June 2016
   year: 2015
 
@@ -32,7 +39,7 @@
   year: 2016
 
 - headline: |
-             I passed my qualifying exam! I spoke about designing near-sensor face detection 
+             I passed my qualifying exam! I spoke about designing near-sensor face detection
              hardware for low-power cameras.
   date: January 2016
   year: 2016
@@ -43,7 +50,7 @@
   year: 2015
 
 - headline: |
-             I presented a poster on our low-power face detection hardware design at the 
+             I presented a poster on our low-power face detection hardware design at the
              <a href="https://www.cs.washington.edu/industrial_affiliates/meetings/2015/meeting">
              UW CSE Industrial Affiliates</a>  meeting.
   date: October 2015
@@ -57,7 +64,7 @@
 
 - headline: |
              I attended the <a href="http://ghc.anitaborg.org/">
-             2014 Grace Hopper Celebration for Women in Computing</a>. I spoke at 
+             2014 Grace Hopper Celebration for Women in Computing</a>. I spoke at
              the ‘CRA-W: How to get accepted to Graduate School’ session.
   date: October 2014
   year: 2014
@@ -66,4 +73,3 @@
              I attended ISCA 2014 in Minneapolis and the Google Scholars Retreat in Mountain View.
   date: June 2014
   year: 2014
-
