@@ -29,7 +29,7 @@ permalink: /web-cv
                 {% if paper.venue %}<br />
                 <span class="venue">
                     {% if paper.pre %}To appear in{% else %}{% if paper.arxiv %}{% else %}In{% endif %}{% endif %}
-                    {{ paper.venue }}{% if paper.with %} (co-located with {{ paper.with }}){% endif %}{% if paper.year %}, {{ paper.year }}{% endif %}.
+                    {{ paper.venue }}{% if paper.with %} (co-located with {{ paper.with }}){% endif %}{% if paper.year %} {{ paper.year }}{% endif %}.
                 </span>
                 {% endif %}
                 {% if paper.note %}
