@@ -32,8 +32,12 @@ permalink: /web-cv
                     {{ paper.venue }}{% if paper.with %} (co-located with {{ paper.with }}){% endif %}{% if paper.year %} {{ paper.year }}{% endif %}.
                 </span>
                 {% endif %}
+                {% if paper.pdf %}
+                <br />
+                <a href="{{ paper.pdf }}">paper (pdf)</a>
+                {% endif %}
                 {% if paper.slides %}
-                    <a href="{{ paper.slides }}">(slides)</a>
+                    , <a href="{{ paper.slides }}">(slides)</a>
                 {% endif %}
                 {% if paper.note %}
                     <span class="note">{{ paper.note }}</span>
