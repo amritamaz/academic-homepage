@@ -54,6 +54,9 @@ More information: [curriculum vitae] [cv], [blog] [blog], [email] [email], [etc]
         {{ paper.venue }}{% if paper.with %} (co-located with {{ paper.with }}){% endif %}{% if paper.year %}, {{ paper.year }}{% endif %}.
     </span>
     {% endif %}
+    {% if paper.slides %}
+        <a href="{{ paper.slides }}">(slides)</a>
+    {% endif %}
     {% if paper.note %}
         <span class="note">{{ paper.note }}</span>
     {% endif %}
