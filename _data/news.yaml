@@ -1,4 +1,9 @@
 - headline: |
+             I just finished a great summer internship at Oculus Research on the Graphics team.
+  date: September 2017
+  year: 2017
+
+- headline: |
              I had a lot of fun at the <a href="https://www.acm.org/turing-award-50">ACM Celebration of 50 Years of
              Turing Awards</a>! Thanks to <a href="https://www.sigarch.org/">ACM SIGARCH</a> for sending me.
   date: June 2017
@@ -9,12 +14,14 @@
              <a href="http://www.highperformancegraphics.org/2017/">High-Performance Graphics 2017</a>!
   date: June 2017
   year: 2017
+
 - headline: |
              The third annual Women's Research Day was a great success! The UW Daily wrote
              <a href="http://www.dailyuw.com/news/article_d1908976-1810-11e7-acf0-5fcdd5247822.html">a nice article</a>
              about the event.
   date: April 2017
   year: 2017
+
 - headline: |
              I gave a talk and presented a poster on our work on in-camera processing pipelines
              at the <a href="https://www.cs.washington.edu/industrial_affiliates/meetings/2016/meeting">

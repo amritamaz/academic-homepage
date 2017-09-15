@@ -5,7 +5,8 @@ title: home
 
 I am a [computer science] [cse] PhD student at the [University of Washington] [uw], in the [Sampa] [sampa] group. My advisors are [Luis Ceze] [luis] and [Mark Oskin] [oskin].
 
-My research is at the intersection of computer architecture and computational photography. I like to build systems that involve hardware and software for visual applications, like continuous mobile vision or [virtual reality cameras] [vr-sampa].
+My research is at the intersection of computer architecture and computational photography. 
+I like to build systems that involve hardware and software for visual applications, like continuous mobile vision or [virtual reality cameras] [vr-sampa].
 
 Before grad school, I studied [computer engineering] [cs@cu] and [English literature] [eng@cu] at [Columbia University] [cu].
 
