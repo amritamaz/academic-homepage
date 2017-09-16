@@ -1,11 +1,16 @@
 - headline: |
-             I just finished a great summer internship at Oculus Research on the Graphics team.
+             Our paper on <a href="https://arxiv.org/abs/1706.03864">in-camera processing pipelines</a> will appear at <a href="http://www.iiswc.org/iiswc2017/index.html">IISWC 2017</a>.
+  date: September 2017
+  year: 2017
+
+- headline: |
+             I just finished a great summer internship at Oculus Research on the Graphics team!
   date: September 2017
   year: 2017
 
 - headline: |
              I had a lot of fun at the <a href="https://www.acm.org/turing-award-50">ACM Celebration of 50 Years of
-             Turing Awards</a>! Thanks to <a href="https://www.sigarch.org/">ACM SIGARCH</a> for sending me.
+             Turing Awards</a>. Thanks to <a href="https://www.sigarch.org/">ACM SIGARCH</a> for sending me.
   date: June 2017
   year: 2017
 
