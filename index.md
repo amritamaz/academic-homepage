@@ -3,9 +3,9 @@ layout: default
 title: home
 ---
 
-I am a [computer science] [cse] PhD student at the [University of Washington] [uw], in the [Sampa] [sampa] group. My advisors are [Luis Ceze] [luis] and [Mark Oskin] [oskin].
+I am a [computer science] [cse] PhD student at the [University of Washington] [uw], advised by [Luis Ceze] [luis] and [Mark Oskin] [oskin] in the [Sampa] [sampa] group.
 
-My research is at the intersection of computer architecture and computational photography. 
+My research is at the intersection of computer architecture and computational photography.
 I like to build systems that involve hardware and software for visual applications, like continuous mobile vision or [virtual reality cameras] [vr-sampa].
 
 Before grad school, I studied [computer engineering] [cs@cu] and [English literature] [eng@cu] at [Columbia University] [cu].

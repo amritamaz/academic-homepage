@@ -33,14 +33,14 @@ jobs:
         dates: 2012
 
 honors:
-    - 
-        title: Google Anita Borg Memorial Fellowship 
+    -
+        title: Google Anita Borg Memorial Fellowship
         date: 2014
-    - 
-        title: CRA-W Distributed Research Experience for Undergraduates (DREU) Fellowship 
+    -
+        title: CRA-W Distributed Research Experience for Undergraduates (DREU) Fellowship
         date: 2013
-    - 
-        title: University of Rochester Frederick Douglass and Susan B. Anthony Award 
+    -
+        title: University of Rochester Frederick Douglass and Susan B. Anthony Award
         date: 2010
 
 teaching:
@@ -82,7 +82,7 @@ outreach:
     - |
         Mentor, ICRA (2015), [Go, Girl Go! Forum](http://icra2015.org/conference/forums/11-conference/53-go-girl-go)
     - |
-        Mentor, Stars Challenge (2014), [Code Secrets](http://www.starschallenge.org/stars/Computing%20Camp%20For%20Girls/)        
+        Mentor, Stars Challenge (2014), [Code Secrets](http://www.starschallenge.org/stars/Computing%20Camp%20For%20Girls/)
     - |
         Instructor, Iridescent Learning (2012), [Technovation Challenge NYC](http://www.technovationchallenge.org/)
 
@@ -90,6 +90,8 @@ committees:
 
     - |
         [Grace Hopper SOL 2016](http://ghc.anitaborg.org/2016-speakers/clusters-and-tracks/#SOL): Program committee member
+    - |
+        [ASPLOS Shadow PC 2018](): Program committee member
 
 external:
 
