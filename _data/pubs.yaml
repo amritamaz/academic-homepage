@@ -12,11 +12,12 @@
     authors: "Amrita Mazumdar, Armin Alaghi, Jonathan T. Barron, David Gallup, Luis Ceze, Mark Oskin, Steven M. Seitz"
     venue: High Performance Graphics
     venue_url: www.highperformancegraphics.org/2017/
-    url: papers/hpg17.pdf
+    url: http://doi.acm.org/10.1145/3105762.3105772
     pdf: papers/hpg17.pdf
     slides: slides/hpg17.pdf
     year: 2017
     type: conference
+    note: code coming soon!
 
 -
     title: "Application-Driven Near-Data Processing for Similarity Search"

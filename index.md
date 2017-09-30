@@ -40,27 +40,4 @@ More information: [curriculum vitae] [cv], [blog] [blog], [email] [email], [etc]
 
 </section>
 
-<section id="pubs">
-<h2>Publications</h2>
-{% for paper in site.data.pubs %}
-<p>
-    <span class="title">
-        {% if paper.url %}<a href="{{ paper.url  }}">{% endif %}{{ paper.title }}.{% if paper.url %}</a>{% endif %}
-    </span>
-    <br />
-    <span class="authors">{{ paper.authors }}.</span>
-    {% if paper.venue %}<br />
-    <span class="venue">
-        {% if paper.pre %}To appear in{% else %}{% if paper.arxiv %}{% else %}In{% endif %}{% endif %}
-        {{ paper.venue }}{% if paper.with %} (co-located with {{ paper.with }}){% endif %}{% if paper.year %}, {{ paper.year }}{% endif %}.
-    </span>
-    {% endif %}
-    {% if paper.slides %}
-        <a href="{{ paper.slides }}">(slides)</a>
-    {% endif %}
-    {% if paper.note %}
-        <span class="note">{{ paper.note }}</span>
-    {% endif %}
-</p>
-{% endfor %}
-</section>
+{% include pubs.html %}
