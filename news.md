@@ -4,7 +4,7 @@ title: CV
 permalink: /news
 ---
 
-<h2>Recent News Updates</h2>
+<h2>News Updates</h2>
 
 {% assign prev_year = 2017 %}
 
@@ -12,9 +12,9 @@ permalink: /news
 
 {% if forloop.first %}
 <div class="textspace">
-<aside><span id="{{ this_year }}-ref">{{member.year}}</span></aside>
-<div>
-<ul class="tablelist">
+<aside><span id="{{ member.year }}-ref">{{member.year}}</span></aside>
+<div class="news">
+<ul class="newslist">
 {% endif %}
 {% if member.year != prev_year %}
 </ul>
@@ -22,14 +22,14 @@ permalink: /news
 </div>
 <div class="textspace">
 <aside><span id="{{ next_year }}-ref">{{member.year}}</span></aside>
-<div>
-<ul class="tablelist">
+<div class="news">
+<ul class="newslist">
 {% assign prev_year= member.year  %}
 
 {% endif %}
 
 <li>
-<span class="news_item">{{ member.headline }}</span>
+<span class="news_item">{{ member.headline }}</span><br />
 <span class="news_date">{{ member.date }}</span>
 </li>
 

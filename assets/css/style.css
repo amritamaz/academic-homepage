@@ -121,9 +121,22 @@ footer{
   text-align: center;
 }
 
-#news-item{
+.news-item{
   margin-top: 5px;
   margin-bottom: 10px;
+}
+
+[id$=-ref]{
+  font-weight: 800;
+  letter-spacing: 0px;
+}
+
+.news ul {
+  list-style: none;
+}
+
+.newslist li{
+  margin: 10px 0;
 }
 
 .news_date{
@@ -131,11 +144,15 @@ footer{
   color: #999;
   letter-spacing: 2px;
   font-size: 12px;
+  margin-bottom: 5px;
 }
 
 .news_text{
-    display: inline-block;
     font-size: 14px;
+}
+
+#news-item{
+  margin-bottom: 7px;
 }
 
 .footer {

@@ -31,8 +31,8 @@ More information: [curriculum vitae] [cv], [blog] [blog], [email] [email], [etc]
 <h2>Recent News <a id="h2link" href="{{site.baseurl}}/news.html">(see all &rarr;)</a></h2>
 {% for member in site.data.news limit: 3 %}
 <div id="news-item">
+<span class="news_text">{{ member.headline }}</span><br />
 <span class="news_date">{{ member.date }}</span>
-<span class="news_text">{{ member.headline }}</span>
 </div>
 
 
