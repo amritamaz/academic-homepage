@@ -23,6 +23,9 @@
                 {% if paper.code %}
                     , <a href="{{ paper.code }}">code (github)</a>
                 {% endif %}
+                {% if paper.blog %}
+                    , <a href="{{ paper.blog }}">blog post</a>
+                {% endif %}
                 {% if paper.note %}
                     , <span class="note">{{ paper.note }}</span>
                 {% endif %}
