@@ -1,4 +1,9 @@
 - headline: |
+             I presented our work on <a href="papers/hpg17.pdf">hardware-friendly bilateral solving</a> at <a href="https://www.src.org/calendar/e005108/">SRC TECHCON 2017</a>.
+  date: September 2017
+  year: 2017
+
+- headline: |
              Our paper on <a href="https://arxiv.org/abs/1706.03864">in-camera processing pipelines</a> will appear at <a href="http://www.iiswc.org/iiswc2017/index.html">IISWC 2017</a>.
   date: September 2017
   year: 2017

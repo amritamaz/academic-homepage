@@ -3,6 +3,8 @@
     authors: "Amrita Mazumdar, Thierry Moreau, Sung Kim, Meghan Cowan, Armin Alaghi, Luis Ceze, Mark Oskin, Visvesh Sathe"
     venue: IEEE International Symposium on Workload Characterization
     year: 2017
+    pdf: papers/iiswc17.pdf
+    slides: slides/iiswc17.pdf
     url: "https://arxiv.org/abs/1706.03864"
     type: conference
 
