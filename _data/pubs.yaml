@@ -18,8 +18,8 @@
     slides: slides/hpg17.pdf
     year: 2017
     type: conference
+    code: https://github.com/uwsampa/hfbs
     blog: http://amritamaz.net/blog/hpg17-hfbs
-    note: code coming soon!
 
 -
     title: "Application-Driven Near-Data Processing for Similarity Search"
