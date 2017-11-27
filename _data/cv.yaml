@@ -19,8 +19,7 @@ education:
         school: Columbia University
         degree: Bachelor of Science, Computer Engineering
         dates: 2010&ndash;2014
-        note: |
-            Minor: English Literature
+
 jobs:
     -
         title: Research Intern
@@ -33,6 +32,9 @@ jobs:
         dates: 2012
 
 honors:
+    -
+        title: Madrona Ventures Research Prize Runner-Up
+        date: 2017
     -
         title: Google Anita Borg Memorial Fellowship
         date: 2014

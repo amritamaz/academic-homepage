@@ -1,4 +1,11 @@
 - headline: |
+             The hardware-friendly bilateral solver
+             <a href="https://news.cs.washington.edu/2017/11/16/allen-school-and-madrona-venture-group-celebrate-student-innovation-at-annual-research-day/">won runner-up</a>
+             for the Madrona Prize!
+  date: November 2017
+  year: 2017
+
+- headline: |
              I presented our work on <a href="papers/hpg17.pdf">hardware-friendly bilateral solving</a> at <a href="https://www.src.org/calendar/e005108/">SRC TECHCON 2017</a>.
   date: September 2017
   year: 2017
