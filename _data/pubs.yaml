@@ -1,4 +1,13 @@
 -
+    title: "Application Codesign of Near-Data Processing for Similarity Search"
+    authors: "Vincent T. Lee, Amrita Mazumdar, Carlo C. del Mundo, Armin Alaghi, Luis Ceze, Mark Oskin"
+    venue: "IEEE International Parallel & Distributed Processing Symposium"
+    year: 2018
+    url: "https://arxiv.org/abs/1606.03742"
+    type: conference
+    pre: true
+
+-
     title: "Exploring Computation-Communication Tradeoffs in Camera Systems"
     authors: "Amrita Mazumdar, Thierry Moreau, Sung Kim, Meghan Cowan, Armin Alaghi, Luis Ceze, Mark Oskin, Visvesh Sathe"
     venue: IEEE International Symposium on Workload Characterization
@@ -20,15 +29,6 @@
     type: conference
     code: https://github.com/uwsampa/hfbs
     blog: http://amritamaz.net/blog/hpg17-hfbs
-
--
-    title: "Application-Driven Near-Data Processing for Similarity Search"
-    authors: "Vincent T. Lee, Amrita Mazumdar, Carlo C. del Mundo, Armin Alaghi, Luis Ceze, Mark Oskin"
-    venue: arXiv Preprint
-    year: 2017
-    url: "https://arxiv.org/abs/1606.03742"
-    type: conference
-    arxiv: true
 
 -
     title: "Principles and Techniques of Schlieren Imaging Systems"
