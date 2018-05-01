@@ -5,8 +5,8 @@ title: home
 
 I am a [computer science] [cse] PhD student at the [University of Washington] [uw], advised by [Luis Ceze] [luis] and [Mark Oskin] [oskin] in the [Sampa] [sampa] group.
 
-My research is at the intersection of computer architecture and computational photography.
-I like to build systems that involve hardware and software for visual applications, like continuous mobile vision or [virtual reality cameras] [vr-sampa].
+My research interests using computer architecture and systems techniques to support virtual reality and other emerging graphics workloads.
+In the past, I have designed hardware accelerators for VR video processing, near-data similarity search, and low-power computer vision.
 
 Before grad school, I studied [computer engineering] [cs@cu] and [English literature] [eng@cu] at [Columbia University] [cu].
 

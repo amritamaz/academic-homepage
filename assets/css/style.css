@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Karla);
+@import url(https://fonts.googleapis.com/css?family=Muli:400,400i,700,700i);
 
 
 body {
@@ -32,19 +33,26 @@ h2 #h2link{
 }
 
 a {
-  color: #162225;
-  background-image: -webkit-linear-gradient(top, #E07900 0, #E07900 100%);
-  background-image: linear-gradient(to bottom, #E07900 0, #E07900 100%);
+  color: #2222ff;
+  background-image: -webkit-linear-gradient(top, #2222ff 0, #2222ff 100%);
+  background-image: linear-gradient(to bottom, #2222ff 0, #2222ff 100%);
   background-repeat: repeat-x;
-  background-size: 0.1rem 0.1rem;
+  background-size: 0.12rem 0.12rem;
   text-decoration: none;
   text-shadow: 3px 0 #fff, 2px 0 #fff, 1px 0 #fff, -1px 0 #fff, -2px 0 #fff, -3px 0 #fff;
-  background-position: 0 .9rem;
+  background-position: 0 .95rem;
+}
+
+b {
+  font-weight: 700;
 }
 
 
 a:focus, a:hover {
   color: #E07900;
+  background-image: -webkit-linear-gradient(top, #E07900 0, #E07900 100%);
+  background-image: linear-gradient(to bottom, #E07900 0, #E07900 100%);
+
 }
 
 a#name{
@@ -77,16 +85,6 @@ margin-top: 0px;
   text-shadow: none;
 }
 
-.nav>li>a:hover {
-background-color: #fff !important;
-  color: #E07900  !important;
-
-}
-
-.nav li a:active {
-  color: #33a5c8;
-  background-color: #33a5c8;
-}
 
 #content{
   padding-top: 20px;
@@ -194,6 +192,11 @@ font-weight: 600;
   font-style: italic;
 }
 
-#pubs span.title {
-  font-style: italic;
+span.title{
+  font-weight: 800;
+}
+span.authors a{
+  background-image: none;
+  text-decoration: none;
+  text-shadow: none;
 }

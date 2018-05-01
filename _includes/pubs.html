@@ -3,10 +3,14 @@
     {% for paper in site.data.pubs %}
             <p>
                 <span class="title">
-                    {% if paper.url %}<a href="{{ paper.url  }}">{% endif %}{{ paper.title }}.{% if paper.url %}</a>{% endif %}
+                    {% if paper.url %}<a href="{{ paper.url }}">{% endif %}{{ paper.title }}.{% if paper.url %}</a>{% endif %}
                 </span>
                 <br />
-                <span class="authors">{{ paper.authors }}.</span>
+                <span class="authors">{% for author in paper.people %}
+                  {% assign curr_auth = site.data.friends[author] %}
+                  {% if author == 'amrita' %}<b>
+                  {% else %}{% if curr_auth.webpage %}<a href="{{ curr_auth.webpage }}">{% endif %}{% endif %}
+                  {{ curr_auth.display_name }}{% if author == 'amrita' %}</b>{% else %}{% if curr_auth.webpage %}</a>{% endif %}{% endif %}{% unless forloop.last %},{% endunless %}{% endfor %}.</span>
                 {% if paper.venue %}<br />
                 <span class="venue">
                     {% if paper.pre %}To appear in{% else %}{% if paper.arxiv %}{% else %}In{% endif %}{% endif %}
@@ -15,19 +19,12 @@
                 {% endif %}
                 {% if paper.pdf %}
                 <br />
-                <a href="{{ paper.pdf }}">paper (pdf)</a>
-                {% endif %}
-                {% if paper.slides %}
-                    , <a href="{{ paper.slides }}">slides (pdf)</a>
-                {% endif %}
-                {% if paper.code %}
-                    , <a href="{{ paper.code }}">code (github)</a>
-                {% endif %}
-                {% if paper.blog %}
-                    , <a href="{{ paper.blog }}">blog post</a>
-                {% endif %}
-                {% if paper.note %}
-                    , <span class="note">{{ paper.note }}</span>
+                <a href="{{ paper.pdf }}">paper (pdf)</a>{% endif %}{% if paper.slides %},
+                <a href="{{ paper.slides }}">slides (pdf)</a>{% endif %}{% if paper.bibtex %},
+                <a href="{{ paper.bibtex }}">bibtex</a>{% endif %}{% if paper.code %},
+                <a href="{{ paper.code }}">code (github)</a>{% endif %}{% if paper.blog %},
+                <a href="{{ paper.blog }}">blog post</a>{% endif %}{% if paper.note %},
+                <span class="note">{{ paper.note }}</span>
                 {% endif %}
             </p>
     {% endfor %}

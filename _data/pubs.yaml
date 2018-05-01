@@ -6,6 +6,13 @@
     url: "https://arxiv.org/abs/1606.03742"
     type: conference
     pre: true
+    people:
+        - vlee2
+        - amrita
+        - cdel
+        - armin
+        - luisceze
+        - oskin
 
 -
     title: "Exploring Computation-Communication Tradeoffs in Camera Systems"
@@ -14,8 +21,18 @@
     year: 2017
     pdf: papers/iiswc17.pdf
     slides: slides/iiswc17.pdf
+    bibtex: bib/amazumdar_iiswc17.bibtex
     url: "https://arxiv.org/abs/1706.03864"
     type: conference
+    people:
+        - amrita
+        - armin
+        - moreau
+        - sungkim
+        - cowanmeg
+        - luisceze
+        - oskin
+        - visvesh
 
 -
     title: "A Hardware-Friendly Bilateral Solver for Real-Time Virtual Reality Video"
@@ -25,10 +42,20 @@
     url: http://doi.acm.org/10.1145/3105762.3105772
     pdf: papers/hpg17.pdf
     slides: slides/hpg17.pdf
+    bibtex: bib/amazumdar_hpg17.bibtex
     year: 2017
     type: conference
     code: https://github.com/uwsampa/hfbs
     blog: http://amritamaz.net/blog/hpg17-hfbs
+    people:
+        - amrita
+        - armin
+        - jonbarron
+        - dgallup
+        - luisceze
+        - oskin
+        - seitz
+
 
 -
     title: "Principles and Techniques of Schlieren Imaging Systems"
@@ -36,4 +63,7 @@
     url: http://academiccommons.columbia.edu/catalog/ac:162659
     venue: Columbia University Computer Science Technical Reports
     type: techreport
+    bibtex: bib/amazumdar_cucs_tr17.bibtex
     year: 2013
+    people:
+      - amrita
