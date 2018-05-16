@@ -1,4 +1,9 @@
 - headline: |
+             Our <a href="https://arxiv.org/abs/1606.03742">paper</a> on codesigning a similarity search hardware accelerator with die-stacked memory will appear at <a href="http://www.ipdps.org/ipdps2018/index.html">IPDPS 2018</a> this month!
+  date: May 2018
+  year: 2018
+
+- headline: |
              The hardware-friendly bilateral solver
              <a href="https://news.cs.washington.edu/2017/11/16/allen-school-and-madrona-venture-group-celebrate-student-innovation-at-annual-research-day/">won runner-up</a>
              for the Madrona Prize!
