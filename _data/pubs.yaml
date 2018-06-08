@@ -1,7 +1,23 @@
 -
+    title: "LightDB: A DBMS for Virtual Reality"
+    authors: "Brandon Haynes, Amrita Mazumdar, Armin Alaghi, Magdalena Balazinska, Luis Ceze, Alvin Cheung"
+    venue: "VLDB"
+    year: 2018
+    url: ""
+    type: conference
+    pre: true
+    people:
+        - bhaynes
+        - amrita
+        - armin
+        - magda
+        - luisceze
+        - akcheung
+
+-
     title: "Application Codesign of Near-Data Processing for Similarity Search"
     authors: "Vincent T. Lee, Amrita Mazumdar, Carlo C. del Mundo, Armin Alaghi, Luis Ceze, Mark Oskin"
-    venue: "IEEE International Parallel & Distributed Processing Symposium"
+    venue: "IPDPS"
     year: 2018
     url: "https://arxiv.org/abs/1606.03742"
     type: conference
@@ -17,7 +33,7 @@
 -
     title: "Exploring Computation-Communication Tradeoffs in Camera Systems"
     authors: "Amrita Mazumdar, Thierry Moreau, Sung Kim, Meghan Cowan, Armin Alaghi, Luis Ceze, Mark Oskin, Visvesh Sathe"
-    venue: IEEE International Symposium on Workload Characterization
+    venue: IISWC
     year: 2017
     pdf: papers/iiswc17.pdf
     slides: slides/iiswc17.pdf
@@ -37,7 +53,7 @@
 -
     title: "A Hardware-Friendly Bilateral Solver for Real-Time Virtual Reality Video"
     authors: "Amrita Mazumdar, Armin Alaghi, Jonathan T. Barron, David Gallup, Luis Ceze, Mark Oskin, Steven M. Seitz"
-    venue: High Performance Graphics
+    venue: HPG
     venue_url: www.highperformancegraphics.org/2017/
     url: http://doi.acm.org/10.1145/3105762.3105772
     pdf: papers/hpg17.pdf
