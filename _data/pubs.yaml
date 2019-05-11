@@ -1,11 +1,44 @@
 -
+    title: "Visual Road: A Video Data Management Benchmark"
+    authors: "Brandon Haynes, Amrita Mazumdar, Magdalena Balazinska, Luis Ceze, Alvin Cheung"
+    year: 2019
+    venue: "SIGMOD"
+    url: "http://sigmod2019.org/"
+    pre: true
+    type: conference
+    people:
+        - bhaynes
+        - amrita
+        - magda
+        - luisceze
+        - akcheung
+
+-
+    title: "Vignette: Perceptual Compression for Video Storage and Processing Systems"
+    authors: "Brandon Haynes, Amrita Mazumdar, Armin Alaghi, Magdalena Balazinska, Luis Ceze, Alvin Cheung"
+    year: 2019
+    venue: arXiv:1902.01372
+    url: "https://arxiv.org/abs/1902.01372"
+    type: conference
+    arxiv: true
+    people:
+        - amrita
+        - bhaynes
+        - magda
+        - luisceze
+        - akcheung
+        - oskin
+
+-
     title: "LightDB: A DBMS for Virtual Reality"
     authors: "Brandon Haynes, Amrita Mazumdar, Armin Alaghi, Magdalena Balazinska, Luis Ceze, Alvin Cheung"
     venue: "VLDB"
     year: 2018
-    url: ""
+    url: "http://www.vldb.org/pvldb/vol11.html"
+    pdf: papers/haynes-vldb18.pdf
     type: conference
-    pre: true
+    bibtex: bib/bhaynes_vldb18.bibtex
+    code: https://github.com/uwdb/lightdb
     people:
         - bhaynes
         - amrita
@@ -19,8 +52,10 @@
     authors: "Vincent T. Lee, Amrita Mazumdar, Carlo C. del Mundo, Armin Alaghi, Luis Ceze, Mark Oskin"
     venue: "IPDPS"
     year: 2018
+    pdf: papers/vlee-ipdps18.pdf
     url: "https://arxiv.org/abs/1606.03742"
     type: conference
+    bibtex: bib/vlee_ipdps18.bibtex
     people:
         - vlee2
         - amrita
@@ -37,7 +72,7 @@
     pdf: papers/iiswc17.pdf
     slides: slides/iiswc17.pdf
     bibtex: bib/amazumdar_iiswc17.bibtex
-    url: "https://arxiv.org/abs/1706.03864"
+    url: "https://ieeexplore.ieee.org/document/8167775/"
     type: conference
     people:
         - amrita

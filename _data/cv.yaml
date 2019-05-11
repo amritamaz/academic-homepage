@@ -23,6 +23,11 @@ education:
 jobs:
     -
         title: Research Intern
+        where: Facebook Reality Lab
+        dates: 2018
+
+    -
+        title: Research Intern
         where: Oculus Research
         dates: 2017
 
@@ -32,6 +37,9 @@ jobs:
         dates: 2012
 
 honors:
+    -
+        title: NCWIT Collegiate Award Finalist
+        date: 2018
     -
         title: Madrona Ventures Research Prize Runner-Up
         date: 2017
@@ -78,9 +86,9 @@ service:
 
 outreach:
     - |
-        Chair, UW CSE Women’s Day (2017, 2018)
+        Chair, UW CSE Women’s Research Day (2017, 2018, 2019)
     - |
-        Committee, UW CSE Women’s Day (2015, 2016)
+        Committee, UW CSE Women’s Research Day (2015, 2016)
     - |
         Mentor, ICRA (2015), [Go, Girl Go! Forum](http://icra2015.org/conference/forums/11-conference/53-go-girl-go)
     - |
@@ -101,6 +109,16 @@ external:
         IEEE Micro 2017
 
 students:
+    -
+        name: Lucas Cendes
+        kind: B.S.
+        when: 2018&ndash;current
+        where: University of Washington
+    -
+        name: Zackery Calipes
+        kind: B.S.
+        when: 2018&ndash;current
+        where: University of Washington
     -
         name: Beck Pang
         kind: B.S.

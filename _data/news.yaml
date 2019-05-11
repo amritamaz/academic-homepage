@@ -1,7 +1,21 @@
-
+- headline: |
+              I gave talks about <a href="https://arxiv.org/abs/1902.01372">Vignette</a> at a number of fun venues:
+                <a href="https://www.soe.ucsc.edu/events/perceptual-compression-video-processing-and-storage">UCSC</a>,
+                <a href="http://bangbangcon.com/west/">!!con West</a> (<a href="https://www.youtube.com/watch?v=5doPjV1c17c">video</a>), the
+                UW Photomedia graduate seminar, <a href="https://www.gomactech.net/2019/index.html">GOMACTech</a>, and
+                <a href="http://www.amw.org/">Asilomar Microcomputer Workshop</a>.
+                Thank you to everyone for hosting me!
+  date: April 2019
+  year: 2019
 
 - headline: |
-             LightDB, a database management system for VR video content, will appear at VLDB 2018. Check it out <a href="">here</a>!
+             I completed another great internship on the Graphics team at
+             <a href="https://research.fb.com/category/augmented-reality-virtual-reality/">Facebook Reality Lab</a>.
+  date: December 2018
+  year: 2018
+
+- headline: |
+             LightDB, a database management system for VR video content, will appear at VLDB 2018. Check it out <a href="http://www.vldb.org/pvldb/vol11.html">here</a>!
   date: June 2018
   year: 2018
 
