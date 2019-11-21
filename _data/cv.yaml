@@ -112,12 +112,12 @@ students:
     -
         name: Lucas Cendes
         kind: B.S.
-        when: 2018&ndash;current
+        when: 2018&ndash;2019
         where: University of Washington
     -
         name: Zackery Calipes
         kind: B.S.
-        when: 2018&ndash;current
+        when: 2018&ndash;2019
         where: University of Washington
     -
         name: Beck Pang

@@ -1,26 +1,12 @@
 -
-    title: "Visual Road: A Video Data Management Benchmark"
-    authors: "Brandon Haynes, Amrita Mazumdar, Magdalena Balazinska, Luis Ceze, Alvin Cheung"
-    year: 2019
-    venue: "SIGMOD"
-    url: "http://sigmod2019.org/"
-    pre: true
-    type: conference
-    people:
-        - bhaynes
-        - amrita
-        - magda
-        - luisceze
-        - akcheung
-
--
     title: "Vignette: Perceptual Compression for Video Storage and Processing Systems"
-    authors: "Brandon Haynes, Amrita Mazumdar, Armin Alaghi, Magdalena Balazinska, Luis Ceze, Alvin Cheung"
+    authors: "Amrita Mazumdar, Brandon Haynes, Magdalena Balazinska, Luis Ceze, Alvin Cheung, Mark Oskin"
     year: 2019
-    venue: arXiv:1902.01372
-    url: "https://arxiv.org/abs/1902.01372"
+    venue: "SoCC"
+    url: "https://dl.acm.org/citation.cfm?id=3362725"
+    pdf: papers/amazumdar_socc19.pdf
+    bibtex: bib/amazumdar_socc19.bibtex
     type: conference
-    arxiv: true
     people:
         - amrita
         - bhaynes
@@ -30,11 +16,27 @@
         - oskin
 
 -
+    title: "Visual Road: A Video Data Management Benchmark"
+    authors: "Brandon Haynes, Amrita Mazumdar, Magdalena Balazinska, Luis Ceze, Alvin Cheung"
+    year: 2019
+    venue: "SIGMOD"
+    url: "https://dl.acm.org/citation.cfm?id=3324955"
+    pdf: papers/haynes-sigmod18.pdf
+    bibtex: bib/bhaynes_sigmod19.bibtex
+    type: conference
+    people:
+        - bhaynes
+        - amrita
+        - magda
+        - luisceze
+        - akcheung
+
+-
     title: "LightDB: A DBMS for Virtual Reality"
     authors: "Brandon Haynes, Amrita Mazumdar, Armin Alaghi, Magdalena Balazinska, Luis Ceze, Alvin Cheung"
     venue: "VLDB"
     year: 2018
-    url: "http://www.vldb.org/pvldb/vol11.html"
+    url: "https://dl.acm.org/citation.cfm?doid=3231751.3242938"
     pdf: papers/haynes-vldb18.pdf
     type: conference
     bibtex: bib/bhaynes_vldb18.bibtex

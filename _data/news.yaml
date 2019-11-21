@@ -1,4 +1,9 @@
 - headline: |
+              I presented our <a href="https://dl.acm.org/citation.cfm?id=3362725">paper</a> on perceptual compression for cloud video storage at <a href="https://acmsocc.github.io/2019/">SoCC</a>!
+  date: November 2019
+  year: 2019
+
+- headline: |
               I gave talks about <a href="https://arxiv.org/abs/1902.01372">Vignette</a> at a number of fun venues:
                 <a href="https://www.soe.ucsc.edu/events/perceptual-compression-video-processing-and-storage">UCSC</a>,
                 <a href="http://bangbangcon.com/west/">!!con West</a> (<a href="https://www.youtube.com/watch?v=5doPjV1c17c">video</a>), the
