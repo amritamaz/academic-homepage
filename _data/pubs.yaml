@@ -2,11 +2,14 @@
     title: "Vignette: Perceptual Compression for Video Storage and Processing Systems"
     authors: "Amrita Mazumdar, Brandon Haynes, Magdalena Balazinska, Luis Ceze, Alvin Cheung, Mark Oskin"
     year: 2019
-    venue: "SoCC"
+    venue: "ACM Symposium on Cloud Computing (SoCC)"
     url: "https://dl.acm.org/citation.cfm?id=3362725"
     pdf: papers/amazumdar_socc19.pdf
     bibtex: bib/amazumdar_socc19.bibtex
+    slides: slides/socc19.pdf
+    note: SoCC Best Poster Award Winner
     type: conference
+    summary: A system that integrates machine learning-improved compression with cloud video storage and distribution, compatible with modern codecs and hardware accelerators.
     people:
         - amrita
         - bhaynes
@@ -21,9 +24,10 @@
     year: 2019
     venue: "SIGMOD"
     url: "https://dl.acm.org/citation.cfm?id=3324955"
-    pdf: papers/haynes-sigmod18.pdf
+    pdf: papers/haynes-sigmod19.pdf
     bibtex: bib/bhaynes_sigmod19.bibtex
     type: conference
+    summary: A scalable analytics benchmark suite and video generator for video databases.
     people:
         - bhaynes
         - amrita
@@ -34,13 +38,14 @@
 -
     title: "LightDB: A DBMS for Virtual Reality"
     authors: "Brandon Haynes, Amrita Mazumdar, Armin Alaghi, Magdalena Balazinska, Luis Ceze, Alvin Cheung"
-    venue: "VLDB"
+    venue: "International Conference on Very Large Data Bases (VLDB)"
     year: 2018
     url: "https://dl.acm.org/citation.cfm?doid=3231751.3242938"
     pdf: papers/haynes-vldb18.pdf
     type: conference
     bibtex: bib/bhaynes_vldb18.bibtex
     code: https://github.com/uwdb/lightdb
+    summary: A database designed for multi-dimensional video, like 360-degree and light field videos.
     people:
         - bhaynes
         - amrita
@@ -52,12 +57,13 @@
 -
     title: "Application Codesign of Near-Data Processing for Similarity Search"
     authors: "Vincent T. Lee, Amrita Mazumdar, Carlo C. del Mundo, Armin Alaghi, Luis Ceze, Mark Oskin"
-    venue: "IPDPS"
+    venue: "IEEE International Parallel and Distributed Processing Symposium (IPDPS)"
     year: 2018
     pdf: papers/vlee-ipdps18.pdf
     url: "https://arxiv.org/abs/1606.03742"
     type: conference
     bibtex: bib/vlee_ipdps18.bibtex
+    summary: A k-nearest neighbors hardware accelerator using processing-in-memory, for content-based image retrieval.
     people:
         - vlee2
         - amrita
@@ -69,13 +75,14 @@
 -
     title: "Exploring Computation-Communication Tradeoffs in Camera Systems"
     authors: "Amrita Mazumdar, Thierry Moreau, Sung Kim, Meghan Cowan, Armin Alaghi, Luis Ceze, Mark Oskin, Visvesh Sathe"
-    venue: IISWC
+    venue: "IEEE International Symposium on Workload Characterization (IISWC)"
     year: 2017
     pdf: papers/iiswc17.pdf
     slides: slides/iiswc17.pdf
     bibtex: bib/amazumdar_iiswc17.bibtex
     url: "https://ieeexplore.ieee.org/document/8167775/"
     type: conference
+    summary: A data movement characterization for resource-constrained vision and VR camera hardware.
     people:
         - amrita
         - armin
@@ -89,7 +96,7 @@
 -
     title: "A Hardware-Friendly Bilateral Solver for Real-Time Virtual Reality Video"
     authors: "Amrita Mazumdar, Armin Alaghi, Jonathan T. Barron, David Gallup, Luis Ceze, Mark Oskin, Steven M. Seitz"
-    venue: HPG
+    venue: "HPG"
     venue_url: www.highperformancegraphics.org/2017/
     url: http://doi.acm.org/10.1145/3105762.3105772
     pdf: papers/hpg17.pdf
@@ -99,6 +106,7 @@
     type: conference
     code: https://github.com/uwsampa/hfbs
     blog: http://amritamaz.net/blog/hpg17-hfbs
+    summary: A hardware-software codesign approach to accelerate a 16-camera VR video pipeline for real-time performance.
     people:
         - amrita
         - armin
@@ -116,6 +124,7 @@
     venue: Columbia University Computer Science Technical Reports
     type: techreport
     bibtex: bib/amazumdar_cucs_tr17.bibtex
+    summary: A survey paper on modern Schlieren optics systems.
     year: 2013
     people:
       - amrita

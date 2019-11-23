@@ -3,12 +3,13 @@ layout: default
 title: home
 ---
 
-I am a [computer science] [cse] PhD student at the [University of Washington] [uw], advised by [Luis Ceze] [luis] and [Mark Oskin] [oskin].
+I am a [computer science] [cse] PhD student at the [University of Washington] [uw], advised by [Luis Ceze] [luis] and [Mark Oskin] [oskin]. I am affiliated with the computer architecture group and the UW Reality Lab, and I collaborate with the UW Databases group.
 
-My research interests are in new computer architecture and systems for virtual reality and other emerging graphics workloads.
-In the past, I have designed hardware accelerators for VR video processing, near-data similarity search, and low-power computer vision.
+My research focuses on improving systems for graphics and virtual reality, by using hardware-software codesign and ML-for-systems techniques.
+My PhD thesis proposes new optimizations across the mobile-cloud visual computing stack, by leveraging *perceptual information* like saliency, semantics, or visual structure.
+These optimizations inform custom hardware accelerators for VR video processing, near-data similarity search, and low-power computer vision, as well as database systems for video management.
 
-Before grad school, I studied [computer engineering] [cs@cu] and [English literature] [eng@cu] at [Columbia University] [cu].
+Before graduate school, I studied [computer engineering] [cs@cu] and [English literature] [eng@cu] at [Columbia University] [cu]. 
 
 [cse]: http://cs.washington.edu/
 [uw]: http://washington.edu
@@ -19,12 +20,16 @@ Before grad school, I studied [computer engineering] [cs@cu] and [English litera
 [cu]: http://www.columbia.edu
 [vr-sampa]: http://sampa.cs.washington.edu/projects/vr-hw.html
 
-More information: [curriculum vitae] [cv], [blog] [blog], [email] [email], [etc] [etc].
+
+
+More information: [curriculum vitae] [cv], [blog] [blog], [email] [email], [google scholar] [gschol], [dblp] [dblp].
 
 [cv]: {{site.baseurl}}/web-cv.html
 [blog]: http://amritamaz.net/blog
 [email]: mailto:amrita@cs.washington.edu
 [etc]: http://amritamaz.net
+[gschol]: https://scholar.google.com/citations?hl=en&user=umX575MAAAAJ
+[dblp]: https://dblp.uni-trier.de/pers/hd/m/Mazumdar:Amrita
 
 <section id="news">
 <h2>Recent News <a id="h2link" href="{{site.baseurl}}/news.html">(see all &rarr;)</a></h2>
