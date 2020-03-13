@@ -4,7 +4,7 @@
     year: 2020
     venue: "Conference on Innovative Data Systems Research (CIDR)"
     url: "http://cidrdb.org/cidr2020/papers/p12-haynes-cidr20.pdf"
-    pdf: papers/haynes-cidr20.pdf
+    pdf: papers/bhaynes-cidr20.pdf
     bibtex: bib/haynes_cidr20.bibtex
     type: conference
     summary: A vision and initial architecture for a new type of database system optimized for large-scale multicamera applications.
@@ -15,8 +15,6 @@
         - magda
         - luisceze
         - akcheung
-
-
 
 -
     title: "Vignette: Perceptual Compression for Video Storage and Processing Systems"
