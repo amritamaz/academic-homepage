@@ -1,4 +1,24 @@
 -
+    title: "VisualWorldDB: A DBMS for the Visual World"
+    authors: "Brandon Haynes, Maureen Daum, Amrita Mazumdar, Magdalena Balazinska, Luis Ceze, Alvin Cheung"
+    year: 2020
+    venue: "Conference on Innovative Data Systems Research (CIDR)"
+    url: "http://cidrdb.org/cidr2020/papers/p12-haynes-cidr20.pdf"
+    pdf: papers/haynes-cidr20.pdf
+    bibtex: bib/haynes_cidr20.bibtex
+    type: conference
+    summary: A vision and initial architecture for a new type of database system optimized for large-scale multicamera applications.
+    people:
+        - bhaynes
+        - mdaum
+        - amrita
+        - magda
+        - luisceze
+        - akcheung
+
+
+
+-
     title: "Vignette: Perceptual Compression for Video Storage and Processing Systems"
     authors: "Amrita Mazumdar, Brandon Haynes, Magdalena Balazinska, Luis Ceze, Alvin Cheung, Mark Oskin"
     year: 2019
@@ -38,14 +58,14 @@
 -
     title: "LightDB: A DBMS for Virtual Reality"
     authors: "Brandon Haynes, Amrita Mazumdar, Armin Alaghi, Magdalena Balazinska, Luis Ceze, Alvin Cheung"
-    venue: "International Conference on Very Large Data Bases (VLDB)"
+    venue: "Proceedings of the VLDB Endowment (PVLDB) 11(10)"
     year: 2018
     url: "https://dl.acm.org/citation.cfm?doid=3231751.3242938"
     pdf: papers/haynes-vldb18.pdf
     type: conference
     bibtex: bib/bhaynes_vldb18.bibtex
     code: https://github.com/uwdb/lightdb
-    summary: A database designed for multi-dimensional video, like 360-degree and light field videos.
+    summary: A database management system designed for multi-dimensional video, like 360-degree and light field videos.
     people:
         - bhaynes
         - amrita

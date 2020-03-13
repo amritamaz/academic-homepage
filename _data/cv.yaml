@@ -38,6 +38,12 @@ jobs:
 
 honors:
     -
+        title: UW CoMotion Innovation Gap Fund Winner
+        date: 2019
+    -
+        title: SoCC Best Poster Award (for poster accompanying SoCC'19 paper)
+        date: 2019
+    -
         title: NCWIT Collegiate Award Finalist
         date: 2018
     -
@@ -75,9 +81,14 @@ service:
     - |
         University of Washington, Computer Science and Engineering
 
+        * Graduate Admissions Committee, 2017–2019
         * Prospective Student Committee Co-Chair, 2016; Member, 2015--2018
         * TGIF Committee Co-Chair, 2016
         * New Graduate Student Mentor, 2015--2016
+
+    - |
+        ACM SIGARCH Social Media Editor (2017–2018)
+
     - |
         Columbia University, Computer Science & Computer Engineering
 
