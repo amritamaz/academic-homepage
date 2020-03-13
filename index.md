@@ -3,13 +3,13 @@ layout: default
 title: home
 ---
 
-I am a [computer science] [cse] PhD student at the [University of Washington] [uw], advised by [Luis Ceze] [luis] and [Mark Oskin] [oskin]. I am affiliated with the computer architecture group and the UW Reality Lab, and I collaborate with the UW Databases group.
+I am a [computer science] [cse] PhD candidate at the [University of Washington] [uw], advised by [Luis Ceze] [luis] and [Mark Oskin] [oskin]. I am affiliated with the computer architecture group and the UW Reality Lab, and I collaborate with the UW databases group.
 
-My research focuses on improving systems for graphics and virtual reality, by using hardware-software codesign and ML-for-systems techniques.
-My PhD thesis proposes new optimizations across the mobile-cloud visual computing stack, by leveraging *perceptual information* like saliency, semantics, or visual structure.
-These optimizations inform custom hardware accelerators for VR video processing, near-data similarity search, and low-power computer vision, as well as database systems for video management.
+My research focuses on improving **systems for graphics and virtual reality** with hardware-software codesign and ML-for-systems techniques.
+My PhD thesis proposes optimizations across the mobile-cloud visual computing stack, by leveraging **perceptual information like saliency, semantics, or visual structure**.
+These optimizations informed the design of custom hardware accelerators for VR video processing, near-data similarity search, and low-power computer vision, as well as impacting the design of database systems for video management.
 
-Before graduate school, I studied [computer engineering] [cs@cu] and [English literature] [eng@cu] at [Columbia University] [cu]. 
+Before graduate school, I studied [computer engineering] [cs@cu] and [English literature] [eng@cu] at [Columbia University] [cu].
 
 [cse]: http://cs.washington.edu/
 [uw]: http://washington.edu
@@ -22,7 +22,7 @@ Before graduate school, I studied [computer engineering] [cs@cu] and [English li
 
 
 
-More information: [curriculum vitae] [cv], [blog] [blog], [email] [email], [google scholar] [gschol], [dblp] [dblp].
+More information: [curriculum vitae] [cv], [google scholar] [gschol], [dblp] [dblp], [blog] [blog], [email] [email]. 
 
 [cv]: {{site.baseurl}}/web-cv.html
 [blog]: http://amritamaz.net/blog
