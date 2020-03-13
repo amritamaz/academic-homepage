@@ -1,10 +1,14 @@
-@import url(https://fonts.googleapis.com/css?family=Karla);
 @import url(https://fonts.googleapis.com/css?family=Muli:400,400i,700,700i);
 
 
 body {
-  font-family: 'Karla', sans-serif;
-  font-size: 14px;
+  font-family: 'Muli', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+b,strong{
+  font-weight: 700;
 }
 
 section {
@@ -13,7 +17,7 @@ margin-top: 30px;
 
 .container-fluid {
   padding: 30px 0 0 0 ;
-  max-width: 1024px;
+  max-width: 832px;
   margin: auto;
 }
 
@@ -21,7 +25,6 @@ margin-top: 30px;
   text-align: left;
   float: left;
 }
-
 
 .h2, h2{
   font-size: 24px;
@@ -34,13 +37,6 @@ h2 #h2link{
 
 a {
   color: #2222ff;
-  background-image: -webkit-linear-gradient(top, #2222ff 0, #2222ff 100%);
-  background-image: linear-gradient(to bottom, #2222ff 0, #2222ff 100%);
-  background-repeat: repeat-x;
-  background-size: 0.12rem 0.12rem;
-  text-decoration: none;
-  text-shadow: 3px 0 #fff, 2px 0 #fff, 1px 0 #fff, -1px 0 #fff, -2px 0 #fff, -3px 0 #fff;
-  background-position: 0 .95rem;
 }
 
 b {
