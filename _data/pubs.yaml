@@ -114,7 +114,7 @@
 -
     title: "A Hardware-Friendly Bilateral Solver for Real-Time Virtual Reality Video"
     authors: "Amrita Mazumdar, Armin Alaghi, Jonathan T. Barron, David Gallup, Luis Ceze, Mark Oskin, Steven M. Seitz"
-    venue: "HPG"
+    venue: "High Performance Graphics (HPG)"
     venue_url: www.highperformancegraphics.org/2017/
     url: http://doi.acm.org/10.1145/3105762.3105772
     pdf: papers/hpg17.pdf

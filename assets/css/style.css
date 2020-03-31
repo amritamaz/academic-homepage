@@ -184,15 +184,28 @@ footer{
 font-weight: 600;
 }
 
-#cv .venue{
+span.venue{
   font-style: italic;
+  font-size: 14px;
 }
 
 span.title{
   font-weight: 800;
 }
+
+span.summary{
+  font-style: italic;
+  font-size: 14px;
+
+}
+
+span.authors, span.files{
+  font-size: 14px;
+}
+
 span.authors a{
   background-image: none;
   text-decoration: none;
   text-shadow: none;
+
 }
