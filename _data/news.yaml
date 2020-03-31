@@ -1,4 +1,9 @@
 - headline: |
+              I had a great time presenting at the first-ever <a href="https://www.youtube.com/watch?v=8V1DyzX8JMA">virtual WACI</a> session at ASPLOS.
+  date: March 2020
+  year: 2020
+
+- headline: |
               I presented our paper on <a href="https://dl.acm.org/citation.cfm?id=3362725">Vignette</a>, perceptual compression for cloud video storage at <a href="https://acmsocc.github.io/2019/">SoCC</a>. The Vignette poster won the best poster award!
   date: November 2019
   year: 2019
