@@ -7,10 +7,11 @@ education:
     -
         school: University of Washington
         degree: Ph.D., Computer Science and Engineering
-        dates: In progress
+        dates: 2020
         note: |
-            Advisors: <a href="http://homes.cs.washington.edu/~luisceze/">Luis Ceze</a>
-            and <a href="http://homes.cs.washington.edu/~oskin/">Mark Oskin</a><br>
+            Committee: <a href="http://homes.cs.washington.edu/~luisceze/">Luis Ceze</a>,
+             <a href="http://homes.cs.washington.edu/~oskin/">Mark Oskin</a><br>,
+             <a href="http://homes.cs.washington.edu/~magda/">Magda Balazinska</a><br>,
     -
         school: University of Washington
         degree: Masters of Science, Computer Science and Engineering
