@@ -3,7 +3,7 @@ layout: default
 title: home
 ---
 
-I recently received my PhD in [computer science] [cse] from the [University of Washington] [uw]. I worked with the computer architecture group and the UW Reality Lab, and I collaborated with the UW databases group.
+I recently received my PhD in [computer science] [cse] from the [University of Washington] [uw]. I worked with the computer architecture group and the UW Reality Lab, and I collaborated with the UW Databases group.
 
 My research focuses on improving **systems for graphics and virtual reality** with hardware-software codesign and ML-for-systems techniques.
 My PhD thesis proposed optimizations across the mobile-cloud visual computing stack, by leveraging **perceptual information like saliency, semantics, or visual structure**.

@@ -2,11 +2,9 @@
     title: "TASM: A Tile-Based Storage Manager for Video Analytics"
     authors: "Maureen Daum, Brandon Haynes, Dong He, Amrita Mazumdar, Magdalena Balazinska, Alvin Cheung"
     year: 2020
-    venue: "Conference on Innovative Data Systems Research (CIDR)"
+    venue: "arxiv"
     url: "https://arxiv.org/abs/2006.02958"
-    pdf: papers/bhaynes-cidr20.pdf
-    bibtex: bib/haynes_cidr20.bibtex
-    type: conference
+    type: arxiv
     summary: A tile-based storage manager enabling spatial random access to encoded videos for analytics workloads.
     people:
         - mdaum
