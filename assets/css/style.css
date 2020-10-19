@@ -21,10 +21,6 @@ margin-top: 30px;
   margin: auto;
 }
 
-#name {
-  text-align: left;
-  float: left;
-}
 
 .h2, h2{
   font-size: 24px;
@@ -61,14 +57,21 @@ a#name:hover{
   color: #E07900;
 
 }
-#logos {
+
+div#profile_pic {
 float: right;
-padding-bottom: 10px;
-margin-top: 0px;
+padding: 0 0 10px 0;
+margin: 0 20px 0 0 ;
+text-align: right;
 }
 
-#logos img{
-  height: 50px;
+div#profile_pic.col-4 {
+  text-align: right;
+}
+
+#profile_pic img{
+  max-width: 200px;
+  max-height: 200px;
 }
 
 .nav li a {
@@ -86,6 +89,10 @@ margin-top: 0px;
   padding-top: 20px;
 }
 
+#name {
+  font-size: 16px;
+}
+
 #name h1{
   line-height: normal;
   margin: 0;
@@ -95,13 +102,14 @@ margin-top: 0px;
 
 #name h2{
   line-height: normal;
-  margin: 0;
+  margin: 10px 0 10px 0;
   font-size: 12px;
   text-transform: uppercase;
   letter-spacing: 2px;
   font-weight: 300;
-  color: #999;
+  color: #909090;
 }
+
 
 #post h1{
   font-size: 28px;
@@ -208,4 +216,10 @@ span.authors a{
   text-decoration: none;
   text-shadow: none;
 
+}
+
+/* ICON STUFF */
+#name img.icon {
+  width: 16px;
+  height: 16px;
 }

@@ -3,29 +3,29 @@ layout: default
 title: home
 ---
 
-I recently received my PhD in [computer science] [cse] from the [University of Washington] [uw]. I worked with the computer architecture group and the UW Reality Lab, and I collaborated with the UW Databases group.
+I am a [CoMotion Postdoctoral Fellow] [comotion], commercializing my research in visual computing. I received my PhD in Spring 2020 from the [Allen School of Computer Science] [cse] at the [University of Washington] [uw]. During grad school, I worked in the [computer architecture group][arch], the [UW Reality Lab][reality], and the [UW DB group][db]. I also spent time working with vision and graphics researchers at the Facebook Reality Lab and Google Research.
 
-My research focuses on improving **systems for graphics and virtual reality** with hardware-software codesign and ML-for-systems techniques.
-My PhD thesis proposed optimizations across the mobile-cloud visual computing stack, by leveraging **perceptual information like saliency, semantics, or visual structure**.
-These optimizations informed the design of custom hardware accelerators for VR video processing, near-data similarity search, and low-power computer vision, as well as impacting the design of database systems for video management.
+My research focuses on **new systems for graphics and virtual reality** by using hardware-software codesign and ML-for-systems techniques.
+My work spans the glass-to-glass visual computing pipeline, and I have proposed **perceptual optimizations leveraging saliency, semantics, and visual structure** that improve the performance of custom hardware accelerators, storage systems, and data management systems.
+
 
 Before graduate school, I studied [computer engineering] [cs@cu] and [English literature] [eng@cu] at [Columbia University] [cu].
 
+[comotion]: https://comotion.uw.edu/
 [cse]: http://cs.washington.edu/
 [uw]: http://washington.edu
-[luis]: http://homes.cs.washington.edu/~luisceze
-[oskin]: http://homes.cs.washington.edu/~oskin
+
+[arch]: http://sampa.cs.washington.edu/
+[reality]: https://realitylab.uw.edu/
+[db]: https://db.cs.washington.edu/
+
 [cs@cu]: http://www.cs.columbia.edu
 [eng@cu]: http://english.columbia.edu
 [cu]: http://www.columbia.edu
-[vr-sampa]: http://sampa.cs.washington.edu/projects/vr-hw.html
 
 
 
-More information: [curriculum vitae] [cv], [google scholar] [gschol], [dblp] [dblp], [blog] [blog], [email] [email].
 
-[cv]: {{site.baseurl}}/web-cv.html
-[blog]: http://amritamaz.net/blog
 [email]: mailto:amrita@cs.washington.edu
 [etc]: http://amritamaz.net
 [gschol]: https://scholar.google.com/citations?hl=en&user=umX575MAAAAJ
