@@ -1,10 +1,12 @@
-@import url(https://fonts.googleapis.com/css?family=Muli:400,400i,700,700i);
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap');
 
 
 body {
-  font-family: 'Muli', sans-serif;
+  font-family: 'Mulish', sans-serif;
   font-size: 18px;
   font-weight: 400;
+  background-color: #fffcf8;
+  color: #2d2a26;
 }
 
 b,strong{
@@ -89,14 +91,10 @@ div#profile_pic.col-4 {
   padding-top: 20px;
 }
 
-#name {
-  font-size: 16px;
-}
-
 #name h1{
   line-height: normal;
   margin: 0;
-  font-weight: 600;
+  font-weight: 900;
   color: #33a5c8;
 }
 
@@ -107,7 +105,6 @@ div#profile_pic.col-4 {
   text-transform: uppercase;
   letter-spacing: 2px;
   font-weight: 300;
-  color: #909090;
 }
 
 
@@ -147,7 +144,6 @@ footer{
 
 .news_date{
   text-transform: uppercase;
-  color: #999;
   letter-spacing: 2px;
   font-size: 12px;
   margin-bottom: 5px;
@@ -163,7 +159,6 @@ footer{
 
 .footer {
   padding-top: 19px;
-  color: #777;
   text-align: center;
   font-size: 0.8em;
   margin: 0.1em 0;
@@ -174,14 +169,12 @@ footer{
   margin-top: -5px;
   padding-bottom: 10px;
   font-weight: 300;
-  color: #999;
   letter-spacing: 1px;
   font-size: 12px;
 }
 
 #cv h2 {
   text-transform: uppercase;
-  color: #999;
   letter-spacing: 2px;
   font-size: 12px;
 
@@ -198,7 +191,7 @@ span.venue{
 }
 
 span.title{
-  font-weight: 800;
+  font-weight: 700;
 }
 
 span.summary{

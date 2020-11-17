@@ -5,9 +5,9 @@ title: home
 
 I am a [CoMotion Postdoctoral Fellow] [comotion], commercializing my research in visual computing. I received my PhD in Spring 2020 from the [Allen School of Computer Science] [cse] at the [University of Washington] [uw]. During grad school, I worked in the [computer architecture group][arch], the [UW Reality Lab][reality], and the [UW DB group][db]. I also spent time working with vision and graphics researchers at the Facebook Reality Lab and Google Research.
 
-My research focuses on **new systems for graphics and virtual reality** by using hardware-software codesign and ML-for-systems techniques.
-My work spans the glass-to-glass visual computing pipeline, and I have proposed **perceptual optimizations leveraging saliency, semantics, and visual structure** that improve the performance of custom hardware accelerators, storage systems, and data management systems.
-
+My research focuses on **new systems for VR, video, and graphics** using hardware-software codesign and ML-for-systems techniques. 
+My work spans the **glass-to-glass visual computing pipeline**; I like to work on systems problems ranging from camera capture, to visual data processing and storage, to media distribution and rendering.
+In my dissertation, I proposed perceptual optimizations, a new class of domain-specific optimizations for vision and graphics workloads, to improve performance for custom hardware accelerators, storage systems, and data management systems.
 
 Before graduate school, I studied [computer engineering] [cs@cu] and [English literature] [eng@cu] at [Columbia University] [cu].
 
@@ -33,7 +33,7 @@ Before graduate school, I studied [computer engineering] [cs@cu] and [English li
 
 <section id="news">
 <h2>Recent News <a id="h2link" href="{{site.baseurl}}/news.html">(see all &rarr;)</a></h2>
-{% for member in site.data.news limit: 3 %}
+{% for member in site.data.news limit: 5 %}
 <div id="news-item">
 <span class="news_text">{{ member.headline }}</span><br />
 <span class="news_date">{{ member.date }}</span>
