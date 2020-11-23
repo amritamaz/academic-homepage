@@ -96,6 +96,7 @@ div#profile_pic.col-4 {
   margin: 0;
   font-weight: 900;
   color: #33a5c8;
+  text-transform: capitalize;
 }
 
 #name h2{
