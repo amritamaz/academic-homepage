@@ -1,8 +1,9 @@
 -
     title: "TASM: A Tile-Based Storage Manager for Video Analytics"
     authors: "Maureen Daum, Brandon Haynes, Dong He, Amrita Mazumdar, Magdalena Balazinska, Alvin Cheung"
-    year: 2020
-    venue: "arxiv"
+    selected: False
+    year: 2021
+    venue: "IEEE International Conference on Data Engineering"
     url: "https://arxiv.org/abs/2006.02958"
     type: arxiv
     summary: A tile-based storage manager enabling spatial random access to encoded videos for analytics workloads.
@@ -17,6 +18,7 @@
 -
     title: "VisualWorldDB: A DBMS for the Visual World"
     authors: "Brandon Haynes, Maureen Daum, Amrita Mazumdar, Magdalena Balazinska, Luis Ceze, Alvin Cheung"
+    selected: False
     year: 2020
     venue: "Conference on Innovative Data Systems Research (CIDR)"
     url: "http://cidrdb.org/cidr2020/papers/p12-haynes-cidr20.pdf"
@@ -35,6 +37,7 @@
 -
     title: "Vignette: Perceptual Compression for Video Storage and Processing Systems"
     authors: "Amrita Mazumdar, Brandon Haynes, Magdalena Balazinska, Luis Ceze, Alvin Cheung, Mark Oskin"
+    selected: True
     year: 2019
     venue: "ACM Symposium on Cloud Computing (SoCC)"
     url: "https://dl.acm.org/citation.cfm?id=3362725"
@@ -73,6 +76,7 @@
     title: "LightDB: A DBMS for Virtual Reality"
     authors: "Brandon Haynes, Amrita Mazumdar, Armin Alaghi, Magdalena Balazinska, Luis Ceze, Alvin Cheung"
     venue: "Proceedings of the VLDB Endowment (PVLDB) 11(10)"
+    selected: True
     year: 2018
     url: "https://dl.acm.org/citation.cfm?doid=3231751.3242938"
     pdf: papers/haynes-vldb18.pdf
@@ -107,9 +111,34 @@
         - oskin
 
 -
+    title: "A Hardware-Friendly Bilateral Solver for Real-Time Virtual Reality Video"
+    authors: "Amrita Mazumdar, Armin Alaghi, Jonathan T. Barron, David Gallup, Luis Ceze, Mark Oskin, Steven M. Seitz"
+    venue: "High Performance Graphics (HPG)"
+    venue_url: www.highperformancegraphics.org/2017/
+    url: http://doi.acm.org/10.1145/3105762.3105772
+    pdf: papers/hpg17.pdf
+    slides: slides/hpg17.pdf
+    bibtex: bib/amazumdar_hpg17.bibtex
+    selected: True
+    year: 2017
+    type: conference
+    code: https://github.com/uwsampa/hfbs
+    blog: http://amritamaz.net/blog/hpg17-hfbs
+    summary: A hardware-software codesign approach to accelerate a 16-camera VR video pipeline for real-time performance.
+    people:
+        - amrita
+        - armin
+        - jonbarron
+        - dgallup
+        - luisceze
+        - oskin
+        - seitz
+
+-
     title: "Exploring Computation-Communication Tradeoffs in Camera Systems"
     authors: "Amrita Mazumdar, Thierry Moreau, Sung Kim, Meghan Cowan, Armin Alaghi, Luis Ceze, Mark Oskin, Visvesh Sathe"
     venue: "IEEE International Symposium on Workload Characterization (IISWC)"
+    selected: True
     year: 2017
     pdf: papers/iiswc17.pdf
     slides: slides/iiswc17.pdf
@@ -126,29 +155,6 @@
         - luisceze
         - oskin
         - visvesh
-
--
-    title: "A Hardware-Friendly Bilateral Solver for Real-Time Virtual Reality Video"
-    authors: "Amrita Mazumdar, Armin Alaghi, Jonathan T. Barron, David Gallup, Luis Ceze, Mark Oskin, Steven M. Seitz"
-    venue: "High Performance Graphics (HPG)"
-    venue_url: www.highperformancegraphics.org/2017/
-    url: http://doi.acm.org/10.1145/3105762.3105772
-    pdf: papers/hpg17.pdf
-    slides: slides/hpg17.pdf
-    bibtex: bib/amazumdar_hpg17.bibtex
-    year: 2017
-    type: conference
-    code: https://github.com/uwsampa/hfbs
-    blog: http://amritamaz.net/blog/hpg17-hfbs
-    summary: A hardware-software codesign approach to accelerate a 16-camera VR video pipeline for real-time performance.
-    people:
-        - amrita
-        - armin
-        - jonbarron
-        - dgallup
-        - luisceze
-        - oskin
-        - seitz
 
 
 -
