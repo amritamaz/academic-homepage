@@ -1,12 +1,12 @@
 ---
 layout: default
-title: CV
+title: Amrita Mazumdar - News
 permalink: /news
 ---
 
 <h2>News Updates</h2>
 
-{% assign prev_year = 2017 %}
+{% assign prev_year = 2020 %}
 
 {% for member in site.data.news %}
 
