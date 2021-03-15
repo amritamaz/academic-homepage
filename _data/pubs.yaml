@@ -1,6 +1,6 @@
 -
     title: "TASM: A Tile-Based Storage Manager for Video Analytics"
-    authors: "Maureen Daum, Brandon Haynes, Dong He, Amrita Mazumdar, Magdalena Balazinska, Alvin Cheung"
+    authors: "Maureen Daum, Brandon Haynes, Dong He, Amrita Mazumdar, Magdalena Balazinska"
     selected: False
     year: 2021
     venue: "IEEE International Conference on Data Engineering"
@@ -13,7 +13,6 @@
         - donghe
         - amrita
         - magda
-        - akcheung
 
 -
     title: "VisualWorldDB: A DBMS for the Visual World"
